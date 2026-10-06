@@ -1,0 +1,16 @@
+Budgy V10.3 - referencia visual aprobada
+Assets:
+- budgy-robot.png (robot normal para dashboard)
+- budgy-analyzing.png
+- budgy-advice.png
+- budgy-calculating.png
+- budgy-good-news.png
+- budgy-analysis.png
+- budgy-movements.png
+- budgy-organizing.png
+- budgy-tip.png
+- budgy-logo-original.png
+- Budgy-logo-mark.png
+- default-avatar.png
+
+La interfaz V10.3 conserva la funcionalidad de V10 y aplica la referencia visual móvil aprobada.
